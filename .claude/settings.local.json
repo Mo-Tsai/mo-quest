@@ -3,7 +3,8 @@
     "allow": [
       "Bash(gh auth:*)",
       "Bash(gh repo:*)",
-      "Bash(gh api:*)"
+      "Bash(gh api:*)",
+      "Bash(npm run:*)"
     ]
   }
 }
